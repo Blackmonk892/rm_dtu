@@ -8,6 +8,12 @@ This project was developed as part of the Student Tech Team technical assessment
 
 ---
 
+## Demo Video
+
+https://github.com/user-attachments/assets/883e9161-5817-49de-9768-93b13394ba3f
+
+
+
 ## Overview
 
 Recruitment and student-selection workflows frequently rely on datasets collected from multiple sources. Raw datasets may contain inconsistent formatting, duplicate records, missing values, non-numeric representations of marks, inconsistent grade formats, and unreliable derived fields such as total scores.
