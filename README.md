@@ -841,7 +841,7 @@ The project does not require a database or additional infrastructure for the ass
 Live application:
 
 ```text
-[Add deployed application URL]
+https://studentpipeline.streamlit.app/
 ```
 
 ---
