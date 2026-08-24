@@ -78,7 +78,7 @@ def clean_gender(raw) -> str:
         "m",
         "man",
         "boy",
-        "1",
+        
     }
 
     female_tokens = {
@@ -86,7 +86,7 @@ def clean_gender(raw) -> str:
         "f",
         "woman",
         "girl",
-        "0",
+        
     }
 
     if value in male_tokens:
